@@ -1,9 +1,9 @@
-# flask-salary-predictor
-This is project predicts the salary of the employee based on the experience.
+# flask-disaster-predictor
+This is project predicts the if the text entered by user consists of disaster news.
 
 # Model
-model.py trains and saves the model to the disk.
-model.pkb the pickle model 
+Model trained during the workshop is to be used here.
+model.h5 the pickle model 
 
 # App
 app.py contains all the requiered for flask and to manage APIs.
