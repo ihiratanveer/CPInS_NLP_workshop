@@ -35,6 +35,8 @@ In this workshop, we covered the following key topics:
     - Preprocessing textual input on the server
     - Passing preprocessed input to the deep learning model for inference
     - Displaying the model's results on a web app
+    - Front display of demo app:
+      ![disaster_predictor](https://github.com/ihiratanveer/CPInS_NLP_workshop/blob/[branch]/image.jpg?raw=true)
 
 - **Importance of Deploying DL Models as Apps:**
     - Centralized processing: Performing data processing and inference on a dedicated server
