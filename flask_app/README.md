@@ -1,5 +1,5 @@
 # flask-disaster-predictor
-This is project predicts the if the text entered by user consists of disaster news.
+This project predicts the if the text entered by user consists of disaster news.
 
 # Model
 Model trained during the workshop is to be used here.
