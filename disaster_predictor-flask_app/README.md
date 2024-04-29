@@ -1,5 +1,5 @@
-# flask-salary-predictor
-This is project predicts the salary of the employee based on the experience.
+# flask-disaster-predictor
+This project predicts whether the tweet is about any disaster or not.
 
 # Model
 model.py trains and saves the model to the disk.
